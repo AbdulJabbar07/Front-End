@@ -1,0 +1,14 @@
+#photo{    
+    border-width: 0.1px;   
+    border-style: solid; 
+    border-color: rgb(12, 243, 96);
+}
+h1{
+    color: rgb(231, 83, 14);
+}
+h2{
+    color: blue;
+}
+div {
+    margin: 0.5px;
+}
